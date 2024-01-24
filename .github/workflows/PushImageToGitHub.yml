@@ -21,5 +21,3 @@ jobs:
           context: DockerFileFolder/
           push: true
           tags: nikhilkusuma/docker-repo1:latest
-
-          
